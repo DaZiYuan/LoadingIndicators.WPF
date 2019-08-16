@@ -224,3 +224,7 @@ msbuild.binlog
 *.project.lock.json
 /build/tools
 /build/dotnet-install.ps1
+/LoadingIndicators.WPF/obj
+/LoadingIndicators.WPF/bin
+/LoadingIndicatorsDemo/bin
+/LoadingIndicatorsDemo/obj
